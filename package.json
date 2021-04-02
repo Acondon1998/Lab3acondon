@@ -1,0 +1,23 @@
+{
+  "name": "lab3acondon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Acondon1998/Lab3acondon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Acondon1998/Lab3acondon/issues"
+  },
+  "homepage": "https://github.com/Acondon1998/Lab3acondon#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
